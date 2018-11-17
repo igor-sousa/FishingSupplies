@@ -35,7 +35,7 @@ import com.app.model.Product;
  */
 
 @RestController
-@RequestMapping("/fishingproducts")
+@RequestMapping("/fishingproducts/v1")
 public class ProductController {
    
   @Autowired
