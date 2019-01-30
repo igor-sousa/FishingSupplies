@@ -16,7 +16,7 @@ Para executar o projeto, será necessário realizar os passos abaixo:
 10. Abrir Postman (https://www.getpostman.com/apps)
 11. Na aba "Create New", selecione a opção "Request"
 12. Selecionar o método a ser executado (GET/POST/DELETE)
-13. Input do endpoint (URL) e clicar no botão "Send"
+13. Input da URI e clicar no botão "Send"
 
 Explore os endpoints e outras informações sobre a API na documentação:
 https://app.swaggerhub.com/apis/igorsnascimento/FishingStore/1.0.0#/
